@@ -1,4 +1,4 @@
-module github.com/TecharoHQ/anubis
+module github.com/vale981/anubis
 
 go 1.24
 
