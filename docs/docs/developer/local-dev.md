@@ -58,13 +58,13 @@ DOCKER_REPO=registry.host/org/repo DOCKER_METADATA_OUTPUT_TAGS=registry.host/org
 
 ## Building packages
 
-For more information, see [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/) and [#156: Debian, RPM, and binary tarball packages](https://github.com/TecharoHQ/anubis/issues/156).
+For more information, see [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/) and [#156: Debian, RPM, and binary tarball packages](https://github.com/vale981/anubis/issues/156).
 
 Install `yeet`:
 
 :::note
 
-`yeet` will soon be moved to a dedicated TecharoHQ repository. This is currently done in a hacky way in order to get this ready for user feedback.
+`yeet` will soon be moved to a dedicated vale981 repository. This is currently done in a hacky way in order to get this ready for user feedback.
 
 :::
 

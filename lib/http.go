@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/TecharoHQ/anubis"
+	"github.com/vale981/anubis"
 )
 
 func (s *Server) ClearCookie(w http.ResponseWriter) {

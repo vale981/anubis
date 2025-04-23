@@ -7,10 +7,10 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/TecharoHQ/anubis"
-	"github.com/TecharoHQ/anubis/data"
-	"github.com/TecharoHQ/anubis/internal"
-	"github.com/TecharoHQ/anubis/lib/policy"
+	"github.com/vale981/anubis"
+	"github.com/vale981/anubis/data"
+	"github.com/vale981/anubis/internal"
+	"github.com/vale981/anubis/lib/policy"
 )
 
 func loadPolicies(t *testing.T, fname string) *policy.ParsedConfig {

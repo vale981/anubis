@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/TecharoHQ/anubis/decaymap"
+	"github.com/vale981/anubis/decaymap"
 )
 
 type OGTagCache struct {

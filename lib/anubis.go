@@ -22,16 +22,16 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
 
-	"github.com/TecharoHQ/anubis"
-	"github.com/TecharoHQ/anubis/data"
-	"github.com/TecharoHQ/anubis/decaymap"
-	"github.com/TecharoHQ/anubis/internal"
-	"github.com/TecharoHQ/anubis/internal/dnsbl"
-	"github.com/TecharoHQ/anubis/internal/ogtags"
-	"github.com/TecharoHQ/anubis/lib/policy"
-	"github.com/TecharoHQ/anubis/lib/policy/config"
-	"github.com/TecharoHQ/anubis/web"
-	"github.com/TecharoHQ/anubis/xess"
+	"github.com/vale981/anubis"
+	"github.com/vale981/anubis/data"
+	"github.com/vale981/anubis/decaymap"
+	"github.com/vale981/anubis/internal"
+	"github.com/vale981/anubis/internal/dnsbl"
+	"github.com/vale981/anubis/internal/ogtags"
+	"github.com/vale981/anubis/lib/policy"
+	"github.com/vale981/anubis/lib/policy/config"
+	"github.com/vale981/anubis/web"
+	"github.com/vale981/anubis/xess"
 )
 
 var (

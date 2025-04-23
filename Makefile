@@ -25,7 +25,7 @@ lint: assets
 	$(GO) tool staticcheck ./...
 
 prebaked-build:
-	$(GO) build -o ./var/anubis -ldflags "-X 'github.com/TecharoHQ/anubis.Version=$(VERSION)'" ./cmd/anubis
+	$(GO) build -o ./var/anubis -ldflags "-X 'github.com/vale981/anubis.Version=$(VERSION)'" ./cmd/anubis
 
 test: assets
 	$(GO) test ./...

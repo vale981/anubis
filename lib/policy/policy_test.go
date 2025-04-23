@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/TecharoHQ/anubis"
-	"github.com/TecharoHQ/anubis/data"
+	"github.com/vale981/anubis"
+	"github.com/vale981/anubis/data"
 )
 
 func TestDefaultPolicyMustParse(t *testing.T) {

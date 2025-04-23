@@ -4,7 +4,7 @@ title: Building Anubis without Docker
 
 :::note
 
-These instructions may work, but for right now they are informative for downstream packagers more than they are ready-made instructions for administrators wanting to run Anubis on their servers. Pre-made binary package support is being tracked in [#156](https://github.com/TecharoHQ/anubis/issues/156).
+These instructions may work, but for right now they are informative for downstream packagers more than they are ready-made instructions for administrators wanting to run Anubis on their servers. Pre-made binary package support is being tracked in [#156](https://github.com/vale981/anubis/issues/156).
 
 :::
 

@@ -2,7 +2,7 @@
 title: Why is Anubis showing up on a website?
 ---
 
-You are seeing Anubis because the administrator of that website has set up [Anubis](https://github.com/TecharoHQ/anubis) to protect the server against the scourge of [AI companies aggressively scraping websites](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/). This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.
+You are seeing Anubis because the administrator of that website has set up [Anubis](https://github.com/vale981/anubis) to protect the server against the scourge of [AI companies aggressively scraping websites](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/). This can and does cause downtime for the websites, which makes their resources inaccessible for everyone.
 
 Anubis is a compromise. Anubis uses a [proof-of-work](/docs/design/why-proof-of-work) scheme in the vein of [Hashcash](https://en.wikipedia.org/wiki/Hashcash), a proposed proof-of-work scheme for reducing email spam. The idea is that at individual scales the additional load is ignorable, but at mass scraper levels it adds up and makes scraping much more expensive.
 

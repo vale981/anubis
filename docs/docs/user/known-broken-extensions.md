@@ -8,7 +8,7 @@ This page contains a list of all of the browser extensions that are known to bre
 | Extension    | JShelter                                      |
 | :----------- | :-------------------------------------------- |
 | Website      | [jshelter.org](https://jshelter.org/)         |
-| GitHub issue | https://github.com/TecharoHQ/anubis/issues/25 |
+| GitHub issue | https://github.com/vale981/anubis/issues/25 |
 
 Workaround steps:
 

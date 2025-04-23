@@ -3,8 +3,8 @@ package policy
 import (
 	"fmt"
 
-	"github.com/TecharoHQ/anubis/internal"
-	"github.com/TecharoHQ/anubis/lib/policy/config"
+	"github.com/vale981/anubis/internal"
+	"github.com/vale981/anubis/lib/policy/config"
 )
 
 type Bot struct {

@@ -3,7 +3,7 @@ package policy
 import (
 	"log/slog"
 
-	"github.com/TecharoHQ/anubis/lib/policy/config"
+	"github.com/vale981/anubis/lib/policy/config"
 )
 
 type CheckResult struct {

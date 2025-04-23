@@ -29,12 +29,12 @@ TLS terminator)
 
 ## Docker image conventions
 
-Anubis is shipped in the Docker repo [`ghcr.io/techarohq/anubis`](https://github.com/TecharoHQ/anubis/pkgs/container/anubis). The following tags exist for your convenience:
+Anubis is shipped in the Docker repo [`ghcr.io/techarohq/anubis`](https://github.com/vale981/anubis/pkgs/container/anubis). The following tags exist for your convenience:
 
 | Tag                 | Meaning                                                                                                                            |
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------- |
-| `latest`            | The latest [tagged release](https://github.com/TecharoHQ/anubis/releases), if you are in doubt, start here.                        |
-| `v<version number>` | The Anubis image for [any given tagged release](https://github.com/TecharoHQ/anubis/tags)                                          |
+| `latest`            | The latest [tagged release](https://github.com/vale981/anubis/releases), if you are in doubt, start here.                        |
+| `v<version number>` | The Anubis image for [any given tagged release](https://github.com/vale981/anubis/tags)                                          |
 | `main`              | The current build on the `main` branch. Only use this if you need the latest and greatest features as they are merged into `main`. |
 
 The Docker image runs Anubis as user ID 1000 and group ID 1000. If you are mounting external volumes into Anubis' container, please be sure they are owned by or writable to this user/group.

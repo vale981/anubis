@@ -5,10 +5,10 @@
 </center>
 
 ![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
-![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/TecharoHQ/anubis)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/TecharoHQ/anubis)
-![language count](https://img.shields.io/github/languages/count/TecharoHQ/anubis)
-![repo size](https://img.shields.io/github/repo-size/TecharoHQ/anubis)
+![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/vale981/anubis)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/vale981/anubis)
+![language count](https://img.shields.io/github/languages/count/vale981/anubis)
+![repo size](https://img.shields.io/github/repo-size/vale981/anubis)
 
 Anubis [weighs the soul of your connection](https://en.wikipedia.org/wiki/Weighing_of_souls) using a sha256 proof-of-work challenge in order to protect upstream resources from scraper bots.
 
@@ -22,13 +22,13 @@ If you want to try this out, connect to [anubis.techaro.lol](https://anubis.tech
 
 ## Support
 
-If you run into any issues running Anubis, please [open an issue](https://github.com/TecharoHQ/anubis/issues/new?template=Blank+issue). Please include all the information I would need to diagnose your issue.
+If you run into any issues running Anubis, please [open an issue](https://github.com/vale981/anubis/issues/new?template=Blank+issue). Please include all the information I would need to diagnose your issue.
 
 For live chat, please join the [Patreon](https://patreon.com/cadey) and ask in the Patron discord in the channel `#anubis`.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TecharoHQ/anubis&type=Date)](https://www.star-history.com/#TecharoHQ/anubis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=vale981/anubis&type=Date)](https://www.star-history.com/#vale981/anubis&Date)
 
 ## Packaging Status
 
@@ -36,8 +36,8 @@ For live chat, please join the [Patreon](https://patreon.com/cadey) and ask in t
 
 ## Contributors
 
-<a href="https://github.com/TecharoHQ/anubis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TecharoHQ/anubis" />
+<a href="https://github.com/vale981/anubis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=vale981/anubis" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).

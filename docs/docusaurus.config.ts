@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TecharoHQ', // Usually your GitHub org/user name.
+  organizationName: 'vale981', // Usually your GitHub org/user name.
   projectName: 'anubis', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TecharoHQ/anubis/tree/main/docs/',
+            'https://github.com/vale981/anubis/tree/main/docs/',
         },
         // blog: {
         //   showReadingTime: true,
@@ -90,7 +90,7 @@ const config: Config = {
         },
         // { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/TecharoHQ/anubis',
+          href: 'https://github.com/vale981/anubis',
           label: 'GitHub',
           position: 'right',
         },
@@ -117,7 +117,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/TecharoHQ/anubis/discussions',
+              href: 'https://github.com/vale981/anubis/discussions',
             },
             {
               label: 'Bluesky',
@@ -130,7 +130,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/TecharoHQ/anubis',
+              href: 'https://github.com/vale981/anubis',
             },
           ],
         },

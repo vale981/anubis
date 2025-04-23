@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/TecharoHQ/anubis"
+	"github.com/vale981/anubis"
 	"github.com/sebest/xff"
 )
 

@@ -8,7 +8,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
 
-	"github.com/TecharoHQ/anubis/lib/policy/config"
+	"github.com/vale981/anubis/lib/policy/config"
 )
 
 var (

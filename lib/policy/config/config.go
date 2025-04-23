@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/TecharoHQ/anubis/data"
+	"github.com/vale981/anubis/data"
 	"k8s.io/apimachinery/pkg/util/yaml"
 )
 

@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/TecharoHQ/anubis/internal"
+	"github.com/vale981/anubis/internal"
 	"github.com/yl2chen/cidranger"
 )
 

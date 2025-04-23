@@ -18,7 +18,7 @@ $`npm run assets`;
         },
 
         build: ({ bin, etc, systemd, out }) => {
-            $`go build -o ${bin}/anubis -ldflags '-s -w -extldflags "-static" -X "github.com/TecharoHQ/anubis.Version=${git.tag()}"' ./cmd/anubis`;
+            $`go build -o ${bin}/anubis -ldflags '-s -w -extldflags "-static" -X "github.com/vale981/anubis.Version=${git.tag()}"' ./cmd/anubis`;
 
             file.install("./run/anubis@.service", `${systemd}/anubis@.service`);
             file.install("./run/default.env", `${etc}/default.env`);
